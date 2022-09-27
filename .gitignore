@@ -31,6 +31,6 @@
 *.out
 *.app
 
-# Project Specific
+# Project specific
 x64/
 .vs/
